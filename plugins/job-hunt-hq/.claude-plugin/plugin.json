@@ -1,0 +1,10 @@
+{
+  "name": "job-hunt-hq",
+  "version": "0.1.0",
+  "description": "求职指挥部：一句“开始设置”，Claude 帮你建好整套实习求职系统，每天找岗位、写求职信、填表、写冷邮件、准备面试，所有提交和发送都由你点头。",
+  "author": {
+    "name": "Yueyang"
+  },
+  "license": "MIT",
+  "keywords": ["internship", "job search", "cover letter", "cold email", "实习", "求职", "留学生"]
+}

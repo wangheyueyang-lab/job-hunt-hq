@@ -1,0 +1,16 @@
+{
+  "name": "job-hunt-hq",
+  "owner": {
+    "name": "Yueyang"
+  },
+  "plugins": [
+    {
+      "name": "job-hunt-hq",
+      "source": "./plugins/job-hunt-hq",
+      "description": "求职指挥部：一句“开始设置”，Claude 帮你建好整套实习求职系统。"
+    }
+  ],
+  "metadata": {
+    "description": "求职指挥部：给找实习的大学生用的 Claude 插件"
+  }
+}
